@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Padauk&display=swap');
+.background {
+  background: #E6E1DF;
+}
+* {
+  padding: 0;
+  margin: 0;
+}
+.img-container {
+  height: 90%;
+}
+hr {
+  width: 60px;
+}
+.page-title {
+  text-transform: uppercase;
+}
+.name {
+  color: #000000B3;
+  font-weight: bold;
+  font-family: 'Fraunces', serif;
+  font-size: 4rem;
+}
+.description-text {
+  font-size: 1.1rem;
+  letter-spacing: 1.5px;
+  font-family: 'Padauk', sans-serif;
+}
+.bi-socials {
+  width: 50px;
+  height: 50px;
+}
